@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Odoo Partners Scraper
 
 Python scraper for collecting Odoo implementation partner data from the public partners directory and exporting clean results to CSV and Excel.
@@ -89,3 +90,6 @@ Plus fixed `RI_*` columns for 22 known industries.
 
 - Scraping behavior and site structure may change over time.
 - Respect the target website's terms and rate limits.
+=======
+# Sahla-Solutions_Competition-Scrapper
+>>>>>>> 0ede09b98163c5bfec0365f88f2e8de6c11523e0
